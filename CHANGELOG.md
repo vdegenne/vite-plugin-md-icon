@@ -1,5 +1,11 @@
 # vite-plugin-md-icon
 
+## 1.0.0
+
+### Major Changes
+
+- updated `mwc3-back-helpers` to version 1
+
 ## 0.0.4
 
 ### Patch Changes
